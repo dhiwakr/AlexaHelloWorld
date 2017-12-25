@@ -1,0 +1,7 @@
+{
+  "name": "AlexaHelloWorld",
+  "description": "AlexaHelloWorld - My First Skill",
+  "repository": "https://github.com/dhiwakr/AlexaHelloWorld",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
