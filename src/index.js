@@ -13,7 +13,7 @@ var handlers = {
     },
 
     'LaunchIntent': function() {
-        this.emit(':ask', "Hello how are you?");
+        this.emit(':ask', "Hello Jarvis how are you?");
     },
 
     'HelloIntent': function() {
